@@ -133,7 +133,7 @@ Generally Mushrooms >>> bats
 - Kill the weeds to the west of the fountain.
 - Go home. (Get any foragable items at the Bus Stop you missed earlier.)
 - Hoe + plant + Mixed Seeds.
-- Chop wood until around 4-6 energy left.
+- Chop wood until around 4-6 energy left. (get at least 50 wood)
 - Kill weeds + grass until around 1:00 AM to 1:30 AM, depending on how many Mixed Seeds you have. 
 - Head back to your house and ship everything except:
   - Stone
@@ -143,3 +143,30 @@ Generally Mushrooms >>> bats
 - Note that:
   - You should sell all foraging items (except for Spring Onions).
 - Be inside your house a few minutes before 2:00 AM. (Dont get the gold penalty.)
+- At the end of the day, you should get:
+  - Farming 0 --> 1
+
+### Spring 2
+
+- Read all of the mail.
+- Water.
+- Craft a chest and take it with you.
+- Empty all inventory in the farm chest.
+ - Keep the hoe + crafted chest + 1 rock.
+- Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house.
+- Go to the beach and get the Bamboo Pole.
+- Give the rock to Willy and claim the reward for the "How To Win Friends" quest (100g).
+- Place the chest on the bottom-right hand corner of the pier.
+- Fish facing east from the pier. Use maximum casts.
+- At 8:40 AM, destroy the Bamboo Pole and check the rest of the beach for any foragable items + artifact spots.
+- Go to Willy's shop. Sell all beach foragable items + fish. Buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
+  - The Training Rod will allow more perfect catches.
+- With the Training Rod, use minimum casts directly south outside Willy's door.
+ - If out of Seaweed and Joja Cola eat the highest quality Anchovy or Herring.
+- When you have enough fish to get up to 1800g and are fishing level 2, destroy the Training Rod, sell all the fish, and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy.
+ - Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible and equip it.
+- Fish using max casts at the same spot as before.
+- At 4:30 PM, if you do not have at least 35 bait on the rod, go to Willy and buy more.
+- Fish until 2 AM. Before passing out, leave all of the fish in the chest.
+- At the end of the day, you should get:
+  - Fishing 0 --> 4
