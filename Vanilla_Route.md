@@ -4,7 +4,7 @@
 - This route has been planned specifically for this duo gamemode, in wich the other player can cheat with item codes but cant trade/pay anything to the vanilla player. More info in the RULES file.
 
 - This route has been planned specifically for a Joja run, using the new farm type from 1.6 (just bcs it's new and we liked it).
-- 
+
 <br />
 
 ## Table of Contents
@@ -13,7 +13,7 @@
   - [Goal](#goal)
   - [Rules](#rules)
   - [Other Notes](#other-notes)
-  - 
+  
 <br />
 
 | Spring                  | Summer                                 | Fall                               | Winter
@@ -87,29 +87,28 @@ Generally Mushrooms >>> bats
 ### Spring 1
 
 - Move the bed in front of the exit.
-- Take the wheat.
 - Immediately chop down 9 trees until foraging level 1 (8 1/3 trees needed). 
-  - Only chop down [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree), not the egg-shaped [Oak Trees](https://stardewvalleywiki.com/Oak_Tree). 
+  - Do not chop the egg-shaped [Oak Trees](https://stardewvalleywiki.com/Oak_Tree) during first day. 
   - Only chop a tree until it falls.
 - Once foraging level 1, craft a chest, place it next to the house, and empty all inventory except for scythe + axe + hoe.
 - Exit south to the forest. (The time should be around 9:20 AM.)
-- Pick up all forgeable items along the way.
+- Pick up all foragebles along the way.
   - If not enough inventory eat the Spring Onions upon pickup.
   - Kill as many weeds as possible.
-- Meet Jas as she walks from her house to her jump rope spot between 11:20 AM and 12:00 noon.
+- Meet Jas as she walks to her jump rope spot between 11:20 AM and 12:00 noon.
 - Meet Haley as she walks west and south towards her photography spot between 11:40 and 12:10.
  - This is a good time to kill extra weeds if you are ahead of schedule.
 - Go to town.
 - Check the two garbage cans next to Jodi's house + Haley's house and clear the weeds between them if you have time.
-- Meet Marnie walking to her ranch from Pierre's General Store. (For reference, she travels past Emily's house at 12:50 PM.)
+- Meet Marnie walking to her ranch from Pierre's General Store. 
 - Go to the beach.
 - Hoe any artifact spots to try and get your first artifact.
  - However, leave any beach foraging items on the ground.
-- Meet Elliott standing south of his cabin near the fire ring between noon and 1:30 PM.
+- Meet Elliott between noon and 1:30 PM.
 - Go to town.
 - If you got an artifact, donate it to the museum and claim the reward (250g).
 - Check the garbage cans next to the museum + blacksmith.
-- Meet Clint inside of the blacksmith. (When leaving the blacksmith, go east.)
+- Meet Clint inside of the blacksmith.
 - Check the garbage can next to JojaMart.
 - Meet Pam + Sam + Shane inside of JojaMart. 
 - Clear the weeds behind/north of JojaMart.
