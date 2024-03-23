@@ -98,7 +98,7 @@ Generally Mushrooms >>> bats
 - Meet Jas as she walks to her jump rope spot between 11:20 AM and 12:00 noon.
 - Meet Haley as she walks west and south towards her photography spot between 11:40 and 12:10.
  - This is a good time to kill extra weeds if you are ahead of schedule.
-- Go to town.
+- Go to town at around 12:20.
 - Check the two garbage cans next to Jodi's house + Haley's house and clear the weeds between them if you have time.
 - Meet Marnie walking to her ranch from Pierre's General Store. 
 - Go to the beach.
