@@ -115,7 +115,7 @@ Generally Mushrooms >>> bats
 - Meet Evelyn (at the flowers), Caroline + Jodi (at the square), and Vincent + Harvey (above Jodi's house).
 - Kill the weeds along the west side of the map by Harvey.
 - Meet Leah + Pierre inside Pierre's General Store.
-  - Do not buy anything.
+  - Buy 15 parsnip.
 - It should now be close to 4:00 PM, and we can meet everybody else near the Saloon:
   - Check the garbage can next to George's house, then enter and meet George and Alex.
   - At 4:00 PM, Emily arrives at the Saloon. Check the garbage can next to the Saloon, then enter and meet Gus and Emily. (You have to go behind the counter to talk to Gus.)
@@ -133,24 +133,20 @@ Generally Mushrooms >>> bats
 - Kill the weeds to the west of the fountain.
 - Go home. (Get any foragable items at the Bus Stop you missed earlier.)
 - Hoe + plant + Mixed Seeds.
-- Chop wood until around 4-6 energy left. (get at least 50 wood)
-- Kill weeds + grass until around 1:00 AM to 1:30 AM, depending on how many Mixed Seeds you have. 
+- Chop wood till u get 150
+- Craft 3 chest
 - Head back to your house and ship everything except:
   - Stone
   - Wood
   - Coal
   - 20 Fiber
-- Note that:
-  - You should sell all foraging items (except for Spring Onions).
-- Be inside your house a few minutes before 2:00 AM. (Dont get the gold penalty.)
 - At the end of the day, you should get:
-  - Farming 0 --> 1
+  - Foraging 0 --> 1
 
 ### Spring 2
 
 - Read all of the mail.
 - Water.
-- Craft a chest and take it with you.
 - Empty all inventory in the farm chest.
  - Keep the hoe + crafted chest + 1 rock.
 - Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house.
@@ -158,15 +154,94 @@ Generally Mushrooms >>> bats
 - Give the rock to Willy and claim the reward for the "How To Win Friends" quest (100g).
 - Place the chest on the bottom-right hand corner of the pier.
 - Fish facing east from the pier. Use maximum casts.
-- At 8:40 AM, destroy the Bamboo Pole and check the rest of the beach for any foragable items + artifact spots.
-- Go to Willy's shop. Sell all beach foragable items + fish. Buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
-  - The Training Rod will allow more perfect catches.
-- With the Training Rod, use minimum casts directly south outside Willy's door.
- - If out of Seaweed and Joja Cola eat the highest quality Anchovy or Herring.
-- When you have enough fish to get up to 1800g and are fishing level 2, destroy the Training Rod, sell all the fish, and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy.
- - Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible and equip it.
 - Fish using max casts at the same spot as before.
 - At 4:30 PM, if you do not have at least 35 bait on the rod, go to Willy and buy more.
-- Fish until 2 AM. Before passing out, leave all of the fish in the chest.
+- Fish until 01:30 AM. Before passing out, leave in the chest only what can be sold to willy.
 - At the end of the day, you should get:
-  - Fishing 0 --> 4
+  - Fishing 0 --> 2
+
+
+### Spring 3
+
+The main goal for this day is to catch as many [Catfish](https://stardewvalleywiki.com/Catfish) as possible. (This is also the goal for almost any rainy day in Spring, really.)
+
+- It always rains on Spring 3.
+- Empty all inventory in the chest. Retrieve the Fiberglass Rod+hoe.
+  - Fish south of Leah's house until 8:30 AM or you run out of bait, whichever comes first.
+  - Check the garbage cans south of Jodi's house and Emily's house.
+  - Check the beach for foragable items + artifact spots.
+  - At Willy's shop, sell all fish + any extra beach foraging items. 
+  - Buy bait until you only have 75g left. (However, if you already found a copper ore from a fishing chest, you can spend all money on bait.)
+  - Empty the contents of the chest and pick it up.
+  - If you saved 75g, go to Clint and buy a copper ore (75g) in order to initiate the Clint cutscene tomorrow. (You do not have to drop the copper on the ground.)
+  - Go to the forest river.
+- The best spot to fish at the forest river is casting south 6 tiles west of Leah's door. Place the chest one tile north and east of you.
+- Fish until 2 AM. Before passing out, fill your inventory with the ore + coal + the most expensive fish.
+- At the end of the day, you should get:
+  - Fishing 3 --> 4 (choose Fisher profession)
+
+### Spring 4
+
+- From here on out, check the TV every single day to reveal the next day's weather so that you can plan accordingly. 
+ - If you don't have 2 chests, craft 2 Chests.
+- Empty your inventory. Retrieve the Fiberglass Rod + 1 chest + fishes.
+ - sell fish in the box
+- Go to the mountain lake. 
+ - Place the chest.
+- Fish until 12:30 AM. Fill your inventory with any gems, ore, coal, and the most expensive fish.
+  - You can leave your Fiberglass Rod in the chest unless it is going to rain tomorrow.
+- Go home. 
+- Ship all sellable items (gems, fish, etc.).
+  - Save any [Chubs](https://stardewvalleywiki.com/Chub) for eating.
+  - Save [Jade](https://stardewvalleywiki.com/Jade), [Emeralds](https://stardewvalleywiki.com/Emerald), [Rubies](https://stardewvalleywiki.com/Ruby), and [Diamonds](https://stardewvalleywiki.com/Diamond) for the Skull Cavern later on.
+- It should be 2 AM immediately after selling. If not, work around farm and pass out.
+- At the end of the day, you should get:
+  - Fishing 4 --> 5
+
+### Spring 5
+
+- Keep the pet
+- Harvest the parsnips Parsnips.
+- Do not water any remaining mixed seeds until later on in the day.
+- Take the remaining chest. 
+- Retrieve the pickaxe + gems + stone + coal + copper + parsnip.
+  - Leave Jade, Emeralds, Rubies, and Diamonds and if any 1 coal.
+- Go to the mines.
+- Place the chest to the left of the elevator.
+- Make your way to floor 10. (See [General Mines Strategy](#general-mines-strategy).)
+- As soon as you have 25 copper ore and 25 stone, return to the 0th floor, craft + place a [Furnace](https://stardewvalleywiki.com/Furnace), make a [Copper Bar](https://stardewvalleywiki.com/Copper_Bar).
+- Keep the furnace going until you have 5 bars. Not later than 3 PM.
+- Once you get to floor 10, farm floor 11 over and over for copper ore while you wait for the remaining bars to smelt 
+- As soon as you have the 5 bars ready:
+  - Leave the sword in the chest.
+  - Retrieve the furnace + any gems + miscellaneous.
+   - Make sure you leave 4 slots open in your inventory.
+  - If you did not leave a coal behind on the farm, take one with you to craft a Scarecrow tomorrow.
+  - Go to the blacksmith.
+- As an extra tip, if you are running late and do not have time for the 5th bar to smelt, then you can still get to the blacksmith by 4 PM, place the furnace inside in blacksmith, smelt the 5th bar, and wait 30 minutes. As long as you are inside the building, Clint will continue to sell to you until 7:10 PM.
+- If you fail to craft the bars in time or fail to reach the blacksmith before he closes, then fish for the remainder of the day. For the rest of the route, push everything back one day. 
+- At the blacksmith:
+  - Sell gems.
+  - Make sure you save at least 3,120g, and then with the remaining money:
+    * Buy up to 25 iron ore 
+    * Buy up to 25 gold ore 
+- For reference, you need the 3,120g for:
+  - 2,000g for the pickaxe upgrade.
+  - 1,120g for 16 Kale Seeds to get farming level 2 (380 total XP). (You can buy less Kale seeds if you account for the experience gained from mixed seeds & [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot).)
+- Upgrade to the Copper Pickaxe (2,000g).
+- Go to Pierre's and buy:
+  - 16 Kale Seeds (1,120g)
+  - With any remaining money, buy additional Kale seeds.
+- If you do not get to Pierre's in time before he closes, this does not change the route in any meaningful way. Simply buy and plant the seeds tomorrow.
+- Go home.
+- Plant + water.
+- Retrieve the Fiberglass Rod + furnace + iron ore + gold ore + coal + Chubs.
+- Go to the mountain lake.
+- Place the furnace next to the chest. Smelt 5 iron bars while you fish.
+- Fish until 2 AM. Before passing out, fill your inventory with the most expensive items.
+  - Leave remaining iron ore + gold ore at the mountain lake chest. (Unless it is going to rain tomorrow; if so, remember to take the furnace with you.)
+  - Make a note of how many gold ore you have.
+- At the end of the day, you should get:
+  - Farming 0 --> 1
+  - Mining 0 --> 1
+  - Fishing 7 --> 8
