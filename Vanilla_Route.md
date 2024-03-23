@@ -4,6 +4,8 @@
 - This route has been planned specifically for this duo gamemode, in wich the other player can cheat with item codes but cant trade/pay anything to the vanilla player. More info in the RULES file.
 
 - This route has been planned specifically for a Joja run, using the new farm type from 1.6 (just bcs it's new and we liked it).
+- 
+<br />
 
 ## Table of Contents
 
@@ -11,7 +13,8 @@
   - [Goal](#goal)
   - [Rules](#rules)
   - [Other Notes](#other-notes)
-- [The Route](#the-route)
+  - 
+<br />
 
 | Spring                  | Summer                                 | Fall                               | Winter
 | ----------------------- | -------------------------------------- | ---------------------------------- | ---------------------
