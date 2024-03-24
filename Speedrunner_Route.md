@@ -212,74 +212,59 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 - Place the chest to the left of the elevator.
 - Make your way to floor 10. (See [General Mines Strategy](#general-mines-strategy).)
 - As soon as you have 25 copper ore and 25 stone, return to the 0th floor, craft + place a [Furnace](https://stardewvalleywiki.com/Furnace), make a [Copper Bar](https://stardewvalleywiki.com/Copper_Bar).
-- Keep the furnace going until you have 5 bars. Not later than 3 PM.
-- Once you get to floor 10, farm floor 11 over and over for copper ore while you wait for the remaining bars to smelt 
-- As soon as you have the 5 bars ready:
-  - Leave the sword in the chest.
-  - Retrieve the furnace + any gems + miscellaneous.
-   - Make sure you leave 4 slots open in your inventory.
-  - If you did not leave a coal behind on the farm, take one with you to craft a Scarecrow tomorrow.
-  - Go to the blacksmith.
-- As an extra tip, if you are running late and do not have time for the 5th bar to smelt, then you can still get to the blacksmith by 4 PM, place the furnace inside in blacksmith, smelt the 5th bar, and wait 30 minutes. As long as you are inside the building, Clint will continue to sell to you until 7:10 PM.
-- If you fail to craft the bars in time or fail to reach the blacksmith before he closes, then fish for the remainder of the day. For the rest of the route, push everything back one day. 
-- At the blacksmith:
-  - Sell gems.
-  - Make sure you save at least 3,120g, and then with the remaining money:
-    * Buy up to 25 iron ore 
-    * Buy up to 25 gold ore 
-- For reference, you need the 3,120g for:
-  - 2,000g for the pickaxe upgrade.
-  - 1,120g for 16 Kale Seeds to get farming level 2 (380 total XP). (You can buy less Kale seeds if you account for the experience gained from mixed seeds & [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot).)
-- Upgrade to the Copper Pickaxe (2,000g).
-- Go to Pierre's and buy:
+- Stop at 3 PM.
+- Go to Pierre's, sell parsnips and buy:
   - 16 Kale Seeds (1,120g)
-  - With any remaining money, buy additional Kale seeds.
-- If you do not get to Pierre's in time before he closes, this does not change the route in any meaningful way. Simply buy and plant the seeds tomorrow.
 - Go home.
 - Plant + water.
-- Retrieve the Fiberglass Rod + furnace + iron ore + gold ore + coal + Chubs.
+- Retrieve the Fiberglass Rod
 - Go to the mountain lake.
-- Place the furnace next to the chest. Smelt 5 iron bars while you fish.
-- Fish until 2 AM. Before passing out, fill your inventory with the most expensive items.
-  - Leave remaining iron ore + gold ore at the mountain lake chest. (Unless it is going to rain tomorrow; if so, remember to take the furnace with you.)
-  - Make a note of how many gold ore you have.
+- Place the furnace next to the chest. Smelt any remaining bars while you fish.
+- Fish until 12 PM. Go back to farm and sell fish and mushrooms if you unlocked the cave.
 
 
 ### Spring 6
 
 - Water.
-  - If any of your spring bundle crops got eaten by a crow, make a note of it and re-purchase the seed from Pierre when convenient.
+- Go to mines and get to 5 copper bars ASAP
+- go to clint before 3 PM and buy all the silver you can (but save 2000g for pickaxe)
+- upgrade pickaxe
+- Go to the mountain lake and fish until 1 AM.
+- Go home and sell all fish
+
+### Spring 7
+
+- Water.
 - Craft and place a scarecrow.
 - Chop trees until 7:40 AM.
 - Empty inventory + retrieve Fiberglass Rod.
 - Go into town from the Bus Stop. You will trigger the community center cutscene; **do not skip the cutscene**.
   - This is because if you skip the cutscene, you will be placed at the entrance to town. If you watch it, you will be placed next to the community center.
 - Go into the community center and touch the Golden Scroll square (to start the quest).
-- Go to the mountain lake and fish until 1 AM. Fill your inventory with 5 iron bars + the most expensive items to sell.
-- Go home.
-- Out of your sellable items, ship however much will give you 5,000g for the Steel Pickaxe upgrade + however much gold to buy up to 25 gold ore.
-  - If you do not have enough, sell Chubs. (Remember, sell the lowest-quality ones first.)
-- It should be 2 AM immediately after selling. If not, cut down grass and pass out.
+- Go to the beach and fish until 3:00 PM.
+- Go to Willy and sell the fish
+- Go  to clint and buy the remaining iron.
+- Go to the mines, get the silver + furnace + coal and go to mountain lake
+- Fish while smelting the silver until 12:30
+- Leave silver + coal in chest, only bring tools + sellable items
+- Go home and sell fish + however much will give you up to 5,000g 
 
-### Spring 7
+### Spring 8
 
 - Check the Queen of Sauce for the [Stir Fry](https://stardewvalleywiki.com/Stir_Fry) recipe.
-- Check the mail until you get the wizard's letter.
 - Water.
-- Empty inventory. Retrieve 5 iron bars.
-- Go to the wizard (to trigger the cutscene).
-  - Note that watching the cutscene does not count as meeting the wizard. If you want to have his name appear in the social tab, you must talk to him after the cutscene. However, this is purely cosmetic and has no actual gameplay advantage, so talking to him is considered a waste of time, especially if you plan on giving him gifts later on.
-- Empty out the contents of the forest river chest (optional).
-- Go to the blacksmith:
-  - Buy up to 25 gold ore (including what you have fished up).
-  - Upgrade to the Steel Pickaxe (5,000g).
+- Go to mountain lake and keep fishing + smelting 
+ - If you dont have 5000g+ at 1:30 go to willy and sell fish, than go to clint
+ - If you do have 5000g+ wait till 2:50, take silver bars and go to clint
+- GAt the blacksmith:
+  - Buy up to 25 gold ore (save 5000g for the pickaxe upgrade).
+  - Upgrade the Pickaxe.
 - Fish at the mountain lake until 2 AM, then pass out. Smelt gold bars while you fish. You should be able to smelt 2-3 bars, with one more in the furnace when you pass out. 
 - At the end of the day, you should get:
   - Fishing 8 --> 9
 
-### Spring 8
+### Spring 9
 
-- If you get the cave cutscene, choose mushrooms. (See [Other Notes](#other-notes).)
 - Water.
 - Out of your sellable items, ship however much will give you 12,000g.
   - This is for the Gold Pickaxe upgrade (10,000g) + the backpack upgrade (2,000g).
