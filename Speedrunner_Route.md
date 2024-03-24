@@ -237,7 +237,7 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 - Water.
 - Craft and place a scarecrow.
 - Chop trees until 7:40 AM.
-- Empty inventory + retrieve Fiberglass Rod.
+- Empty inventory + retrieve Fiberglass Rod + iron + coal.
 - Go into town from the Bus Stop. You will trigger the community center cutscene;
 - Go into the community center and touch the Golden Scroll square (to start the quest).
 - Go to the beach and fish until 3:00 PM.
