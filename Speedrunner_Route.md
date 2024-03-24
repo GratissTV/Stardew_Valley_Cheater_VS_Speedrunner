@@ -75,7 +75,7 @@ You can however use scripts for the animation cancel.
 
 ### Other-notes
 
-In spring, if it's raining alwaysFish in the forest river; If sunny, fish in mountain lake.
+In spring, if it's raining always fish in the forest river; If sunny, fish in mountain lake.
 In Summer, always go fish in the ocean.
 
 Start with Female character (you get 500g instead of a cookie)
@@ -227,8 +227,8 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 
 - Water.
 - Go to mines and get to 5 copper bars ASAP
-- go to clint before 3 PM and buy all the silver you can (but save 2000g for pickaxe)
-- upgrade pickaxe
+- go to clint before 3 PM and spend everything but 2000g on silver
+- upgrade pickaxe (2000g)
 - Go to the mountain lake and fish until 1 AM.
 - Go home and sell all fish
 
@@ -238,15 +238,14 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 - Craft and place a scarecrow.
 - Chop trees until 7:40 AM.
 - Empty inventory + retrieve Fiberglass Rod.
-- Go into town from the Bus Stop. You will trigger the community center cutscene; **do not skip the cutscene**.
-  - This is because if you skip the cutscene, you will be placed at the entrance to town. If you watch it, you will be placed next to the community center.
+- Go into town from the Bus Stop. You will trigger the community center cutscene;
 - Go into the community center and touch the Golden Scroll square (to start the quest).
 - Go to the beach and fish until 3:00 PM.
 - Go to Willy and sell the fish
 - Go  to clint and buy the remaining iron.
 - Go to the mines, get the silver + furnace + coal and go to mountain lake
 - Fish while smelting the silver until 12:30
-- Leave silver + coal in chest, only bring tools + sellable items
+- Leave silver + coal in chest
 - Go home and sell fish + however much will give you up to 5,000g 
 
 ### Spring 8
@@ -254,14 +253,13 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 - Check the Queen of Sauce for the [Stir Fry](https://stardewvalleywiki.com/Stir_Fry) recipe.
 - Water.
 - Go to mountain lake and keep fishing + smelting 
- - If you dont have 5000g+ at 1:30 go to willy and sell fish, than go to clint
+ - If you dont have 5000g+ at 1:10 go to willy and sell fish, than go to clint
  - If you do have 5000g+ wait till 2:50, take silver bars and go to clint
-- GAt the blacksmith:
+- At the blacksmith:
   - Buy up to 25 gold ore (save 5000g for the pickaxe upgrade).
-  - Upgrade the Pickaxe.
-- Fish at the mountain lake until 2 AM, then pass out. Smelt gold bars while you fish. You should be able to smelt 2-3 bars, with one more in the furnace when you pass out. 
-- At the end of the day, you should get:
-  - Fishing 8 --> 9
+  - Upgrade the Pickaxe to iron.
+- If you have leveld up a skill, Fish until 2 AM, then pass out.
+- Otherwise fish till 12:30 PM, and go back to farm
 
 ### Spring 9
 
@@ -270,9 +268,8 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
   - This is for the Gold Pickaxe upgrade (10,000g) + the backpack upgrade (2,000g).
   - If you do not have enough, then you will need to return home before the end of the day and ship the fish you catch during the day to make up the difference.
 - Fish at the mountain lake until 2 AM, then pass out. Smelt gold bars while you fish, until you have 5 total. Make sure you have these bars in your inventory when you pass out.
-- As this is the first day we have not increased a skill since the start of the game, make sure not to exhaust yourself. (We need to wake up with 50% energy instead of 0% energy.)
 
-### Spring 9
+### Spring 10
 
 - Water.
 - Chop wood until around 8 AM.
