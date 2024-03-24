@@ -240,34 +240,24 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 - Empty inventory + retrieve Fiberglass Rod + iron + coal.
 - Go into town from the Bus Stop. You will trigger the community center cutscene;
 - Go into the community center and touch the Golden Scroll square (to start the quest).
-- Go to the beach and fish until 3:00 PM.
-- Go to Willy and sell the fish
-- Go  to clint and buy the remaining iron.
-- Go to the mines, get the silver + furnace + coal and go to mountain lake
-- Fish while smelting the silver until 12:30
-- Leave silver + coal in chest
+- Go to mountain lake and keep fishing + smelting 12:30 PM, and go back to farm
 - Go home and sell fish + however much will give you up to 5,000g 
 
 ### Spring 8
 
-- Check the Queen of Sauce for the [Stir Fry](https://stardewvalleywiki.com/Stir_Fry) recipe.
-- Water.
-- Go to mountain lake and keep fishing + smelting 
- - If you dont have 5000g+ at 1:10 go to willy and sell fish, than go to clint
- - If you do have 5000g+ wait till 2:50, take silver bars and go to clint
-- At the blacksmith:
-  - Buy up to 25 gold ore (save 5000g for the pickaxe upgrade).
-  - Upgrade the Pickaxe to iron.
-- If you have leveld up a skill, Fish until 2 AM, then pass out.
-- Otherwise fish till 12:30 PM, and go back to farm
+- Fish at river until 8:30 than go sell everything you have to pierre
+- Go to clint, retrieve pickaxe and buy remaining silver
+- Go to willy, smelt remaining silver and fish until 3
+- sell all fish and go to clint
+- buy all gold you can but save 5000g
+- upgrade pickaxe
+- go fish on mountain lake
 
 ### Spring 9
 
 - Water.
-- Out of your sellable items, ship however much will give you 12,000g.
-  - This is for the Gold Pickaxe upgrade (10,000g) + the backpack upgrade (2,000g).
-  - If you do not have enough, then you will need to return home before the end of the day and ship the fish you catch during the day to make up the difference.
-- Fish at the mountain lake until 2 AM, then pass out. Smelt gold bars while you fish, until you have 5 total. Make sure you have these bars in your inventory when you pass out.
+- Fish at the mountain lake until 12:30 PM.
+- Go back to farm
 
 ### Spring 10
 
