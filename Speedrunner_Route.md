@@ -252,110 +252,90 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 - buy all gold you can but save 5000g
 - upgrade pickaxe
 - go fish on mountain lake
+- go home and sell fish
 
 ### Spring 9
 
 - Water.
-- Fish at the mountain lake until 12:30 PM.
-- Go back to farm
+- Fish at the mountain lake until 2:30 PM.
+ - go to clint and buy enough gold for 5 bars
+- Go back to fishing while you smelt the gold
+- go home and sell fish
 
 ### Spring 10
 
 - Water.
-- Chop wood until around 8 AM.
-- Empty inventory. Retrieve the Fiberglass Rod.
-- Go to the blacksmith and upgrade to the Gold Pickaxe (10,000g).
-- Go to Pierre's and buy the backpack upgrade (2,000g).
-- Fish at the mountain lake until 2 AM, then pass out.
-- At the end of the day, you should get:
-  - Fishing 9 --> 10 (choose Angler profession)
-- If you do not get fishing level 10 today, then you will get it after the next day of fishing. This does not change the route in any meaningful way.
+- Fish at the mountain lake until 2:30 PM.
+ - go to clint and buy enough gold for 5 bars
+- Go back to fishing while you smelt the gold
+- go home and sell fish
 
-### Spring 10
-
-- Water.
-- Grab mushrooms from the cave.
-- Calculate how many additional kale you need to get to farming level 6.
-  - 8 XP per Parsnip * 15 Parsnips = 120 XP
-  - 17 XP per Kale * 16 Kale = 272 XP
-  - 3300 total XP - 120 XP - 272 XP = 2908 XP needed
-  - 2908 XP / 17 = 172 Kale
-  - 172 Kale Seeds * 70g = 12,040g
-- If you are level 10 fishing, ship enough fish to buy half of the Kale Seeds necessary (6,020g). (We will plant the Kale in two batches.)
-  - Two batches is optimal because we don't want to craft more [Sprinklers](https://stardewvalleywiki.com/Crafting#Sprinklers) than necessary. This allows for the maximum amount of iron bars to craft Quality Sprinklers on Spring 28.
-- If you are not level 10 fishing, then don't ship any fish right now (because you will miss out on 25% of the gold). Tomorrow, you will have to sell the fish directly to Willy.
-- Empty inventory. Retrieve Fiberglass Rod.
-- If you have less than 100 bait on the rod, also retrieve a few fish. Fish in the mountain lake for a few hours while you wait for 9 AM. Then, go to Willy, sell the fish, and buy more bait.
-- Fish at the mountain lake until 2 AM, then pass out. Remember to take your furnace with you (because we will take it to the mines tomorrow).
 
 ### Spring 11
 
 - Harvest the Kale. (This should get to you farming level 2.)
+- go fshing under leah until 8:20
+- go sell kale to pierre
+- go to willy and fish till 2:50
+- sell fish
+- go to clint
+- upgrade pickaxe (1000g)
+- go fish in mountain lake
+- at 12:50 pm  go back and sell fish
+
+### Spring 12
+
+- Water.
+- Fish at the mountain lake until 1:00 AM
+- go home and sell fish (need at least 8k)
+
+### Spring 13
+
 - Start hoeing squares in a sprinkler-pattern. (Do not water any squares.)
+ - (NORMAL SPRINKLER, NOT QUALITY ONE)
 - Leave the farm at around 8:00 AM.
-- Go to Willy to sell fish if you did not ship any fish yesterday.
+- buy the lvl 2 bacpack (2000g)
 - Go to the blacksmith. Retrieve the gold pickaxe.
 - Go to Pierre's and buy the previously calculated amount of Kale Seeds. (6,020g)
 - Go back to the farm and finish hoeing + planting. (Do not water any squares.)
-  - You can optionally craft and place [Cobblestone Path](https://stardewvalleywiki.com/Cobblestone_Path) to mark where the future sprinklers will go.
   - We do not need to water the Kale until Spring 14.
 - Go to the mines and place the furnace. Keep the furnace going with smelting bars.
 - Mine until 2 AM, then pass out.
   - As you get more copper, craft + place 3 more furnaces (to have 4 in total).
-- At the end of the day, you should get:
-  - Farming 1 --> 2
-
-### Spring 12
-
-- Grab mushrooms from the cave.
-- Mine until 2 AM, then pass out. As you mine, smelt copper and iron.
-- When you get mining level 5, choose the Miner profession.
-
-### Spring 13
-
-- Mine until 2 AM, then pass out.
-- (There is nothing that we need from the [Egg Festival](https://stardewvalleywiki.com/Egg_Festival), so going there would be a waste of time. One exception would be if you are doing a challenge to ship every item by the end of year 1; in that case you would need one or two [Strawberry Seeds](https://stardewvalleywiki.com/Strawberry_Seeds).)
 
 ### Spring 14
 
-- Check the Queen of Sauce for the [Coleslaw](https://stardewvalleywiki.com/Coleslaw) recipe.
-- Grab mushrooms from the cave.
-- Go to the mines until 12 AM.
+- Mine until 2 AM, then pass out. As you mine, smelt copper and iron.
+- When you get mining level 5, choose the Miner profession.
+
+### Spring 15
+
+- Mine until 2 AM, then pass out.
+
+### Spring 16
+
+- Go to the mines until 11 AM.
 - If you do not have enough ore for the rest of the sprinklers that you need, then farm ore on floor 21/41 before continuing to descend in the mines.
 - If you reach the bottom of the mines, revert to farming more ore. (You can reach floor 120 anywhere between Spring 14 through Spring 18, depending on how well you play, how lucky you are, and whether or not you took days off to fish in the rain.)
   - Once you have all of the (normal) sprinklers made, copper ore is only needed for tool upgrades. Lots of iron ore and gold ore will be needed for Quality Sprinklers.
 - At 12 AM, go home and craft + place as many sprinklers as possible. (If you do not have enough sprinklers to cover all of the crops, that is okay.)
-- Ship items to get up to 42,500g.
-  - If you don't have enough, then only get up to 32,500g. Tomorrow, don't buy the 10,000g bundle. (In most runs, you will not have enough.)
 - It should be 2 AM after this. If not, cut down grass and pass out.
 
-### Spring 15
+### Spring 17
 
-- Salmonberries start spawning today, but do not venture too far out of your way to harvest them. (They are not worth a lot of extra time for the little energy that they return.)
-  - Use the same pause strategy for Salmonberry bushes that you do for garbage cans.
 - Water the crops that are not yet covered by sprinklers (if any).
-- Empty inventory. Retrieve 4 [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) items + 4 [Spring Crops Bundle](https://stardewvalleywiki.com/Bundles#Spring_Crops_Bundle) items + 3 [Blacksmith's Bundle](https://stardewvalleywiki.com/Bundles#Blacksmiths_Bundle) items + 4 [Geologist's Bundle](https://stardewvalleywiki.com/Bundles#Geologists_Bundle) items + 2 [Adventurer's Bundle](https://stardewvalleywiki.com/Bundles#Adventurers_Bundle) items.
-- Go to the community center and complete the bundles for these items.
-  - Remember to exit out of the Golden Scroll after completing two of the Boiler Room bundles in order to prevent getting trapped in the bugged cutscene.
-- Also complete the vault bundles, if you have enough money (42,500g).
-- Go home and place the [Crystalarium](https://stardewvalleywiki.com/Crystalarium) and stick a diamond in it.
 - Empty inventory and go to the mines.
 - If you do not have enough ore for the rest of the sprinklers that you need, then farm ore on floor 21/41 before continuing to descend in the mines.
 - Mine until 2 AM, then pass out. If you still need to craft more sprinklers, remember to leave the smelted bars in your inventory.
-- At the end of the day, you will unlock the [Minecarts](https://stardewvalleywiki.com/Minecart).
 
-### Spring 16
+### Spring 18
 
-- Grab mushrooms from the cave.
 - Water the crops that are not yet covered by sprinklers (if any).
 - Use the bars smelted on the previous day to craft more sprinklers (if needed).
-- Mine until 2 AM. (Remember to use the minecarts to get there faster.)
 
-### Spring 17 & Beyond
+### Spring 19
 
 - If you have not already reached floor 120 in the mines, get that done as soon as possible.
-- Furthermore, if you need more gold to finish the vault (42,500g), then fish at the mountain lake, and finish the vault as soon as possible.
-  - If you still need to do both of these things, then you should time it such that you finish both of them on the same day. (Because the bus will not be repaired until the next day.)
 - Once you have reached floor 120 of the mines, move all of the furnaces from the mines back to your farm.
 - Start to do Skull Cavern runs as soon as possible and as often as possible. (See [General Skull Cavern Strategy](#general-skull-caverns-strategy).)
 - During periods of downtime, you can:
@@ -365,20 +345,14 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
   - Craft + place extra furnaces with your spare copper.
   - Start to plant acorns in a corner of the farm to build up an Oak Tree forest.
   - Farm more ore in the mines (on floor 20/40/80).
-
-### Spring 18
-
-- Ship enough items to get:
+  - - Ship enough items to get:
   - 2,000g for the [Copper Axe](https://stardewvalleywiki.com/Axes) upgrade.
   - However much gold is needed to buy the second batch of [Kale Seeds](https://stardewvalleywiki.com/Kale_Seeds) (70g each).
 
-### Spring 19
+### Spring 20
 
 - At 9 AM, go to Clint and upgrade to the [Copper Axe](https://stardewvalleywiki.com/Axes) (2,000g).
 - Go to Pierre and buy the second batch of [Kale Seeds](https://stardewvalleywiki.com/Kale_Seeds)
-
-### Spring 20
-
 - Harvest the first batch of Kale and plant the second crop.
 - Ship enough items to get 5,000g for the [Steel Axe](https://stardewvalleywiki.com/Axes) upgrade.
 
@@ -386,7 +360,6 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 
 - Check the Queen of Sauce for the [Radish Salad](https://stardewvalleywiki.com/Radish_Salad) recipe.
 - At 9 AM, go to Clint, retrieve the [Copper Axe](https://stardewvalleywiki.com/Axes), and upgrade to the [Steel Axe](https://stardewvalleywiki.com/Axes) (5,000g).
-- If your run goals include shipping everything by the end of year 1, you must buy and plant a [Tulip Bulb](https://stardewvalleywiki.com/Tulip_Bulb) (20g) and [Jazz Seeds](https://stardewvalleywiki.com/Jazz_Seeds) (30g) today for it to be ready on Spring 28.
 
 ### Spring 22
 
