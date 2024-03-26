@@ -257,15 +257,13 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 ### Spring 9
 
 - Water.
-- Fish at the mountain lake until 2:30 PM.
- - go to clint and buy enough gold for 5 bars
-- Go back to fishing while you smelt the gold
+- Fish at the mountain lake until 1:50 AM.
 - go home and sell fish
 
 ### Spring 10
 
 - Water.
-- Fish at the mountain lake until 2:30 PM.
+- Fish at the river below farm 2:00 PM.
  - go to clint and buy enough gold for 5 bars
 - Go back to fishing while you smelt the gold
 - go home and sell fish
@@ -273,51 +271,51 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 
 ### Spring 11
 
-- Harvest the Kale. (This should get to you farming level 2.)
-- go fshing under leah until 8:20
-- go sell kale to pierre
-- go to willy and fish till 2:50
-- sell fish
-- go to clint
-- upgrade pickaxe (1000g)
-- go fish in mountain lake
-- at 12:50 pm  go back and sell fish
+- Harvest the Kale and sell it
+- water any crops remaining
+- grab fishing rod+ furnace + coal + gold and go fshing in mountain lake
+- at 12:50 pm  go back and sell fish + take gold bars (leave furnace and coal there)
 
 ### Spring 12
 
 - Water.
-- Fish at the mountain lake until 1:00 AM
-- go home and sell fish (need at least 8k)
+- Fish below Leah's house until 2:00
+- go to willy, sell everything
+- go to clint, upgrade gold pickaxe
+- go fish in mountain lake till 1:00 am
+- go home and sell fish 
 
 ### Spring 13
+
+- EGG FESTIVAL DAY!!! DONT DO IT!!
+- if not raining, start clearing some space for the crops you will plant on next day
+- fish all day.
+
+
+### Spring 14
 
 - Start hoeing squares in a sprinkler-pattern. (Do not water any squares.)
  - (NORMAL SPRINKLER, NOT QUALITY ONE)
 - Leave the farm at around 8:00 AM.
 - buy the lvl 2 bacpack (2000g)
 - Go to the blacksmith. Retrieve the gold pickaxe.
-- Go to Pierre's and buy the previously calculated amount of Kale Seeds. (6,020g)
-- Go back to the farm and finish hoeing + planting. (Do not water any squares.)
-  - We do not need to water the Kale until Spring 14.
+- Go to Pierre's and buy all the kale you can afford
+- Go back to the farm and finish hoeing + planting + watering
 - Go to the mines and place the furnace. Keep the furnace going with smelting bars.
 - Mine until 2 AM, then pass out.
   - As you get more copper, craft + place 3 more furnaces (to have 4 in total).
 
-### Spring 14
-
-- Mine until 2 AM, then pass out. As you mine, smelt copper and iron.
-- When you get mining level 5, choose the Miner profession.
-
 ### Spring 15
 
+- water
 - Mine until 2 AM, then pass out.
+- if lvl 5, choose miner profession.
 
 ### Spring 16
 
 - Go to the mines until 11 AM.
 - If you do not have enough ore for the rest of the sprinklers that you need, then farm ore on floor 21/41 before continuing to descend in the mines.
-- If you reach the bottom of the mines, revert to farming more ore. (You can reach floor 120 anywhere between Spring 14 through Spring 18, depending on how well you play, how lucky you are, and whether or not you took days off to fish in the rain.)
-  - Once you have all of the (normal) sprinklers made, copper ore is only needed for tool upgrades. Lots of iron ore and gold ore will be needed for Quality Sprinklers.
+- If you reach the bottom of the mines, revert to farming more ore. 
 - At 12 AM, go home and craft + place as many sprinklers as possible. (If you do not have enough sprinklers to cover all of the crops, that is okay.)
 - It should be 2 AM after this. If not, cut down grass and pass out.
 
