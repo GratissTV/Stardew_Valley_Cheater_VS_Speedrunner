@@ -481,282 +481,93 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 
 - Summer 26 is guaranteed to be a stormy day.
 
-### Summer 27
-
-- Ship enough items to purchase enough [Wheat Seeds](https://stardewvalleywiki.com/Wheat_Seeds) to cover your whole farm tomorrow (10g each).
-
-### Summer 28
-
-- Harvest the Starfruit.
-- At 9 AM, go to Pierre's and buy enough [Wheat Seeds](https://stardewvalleywiki.com/Wheat_Seeds) to cover your whole farm.
-- Plant the Wheat Seeds.
 
 ### Fall 1
 
-- Nothing notable on this day. Can do a Skull Cavern run, etc. We need to wait for the wheat to finish growing.
-- Note that if you are trying to complete the [Museum](https://stardewvalleywiki.com/Museum), then it is extremely helpful to have level 10 foraging and the Tracker profession before Winter 1 (so that you can see the [Artifact Spots](https://stardewvalleywiki.com/Artifact_Spot) easier). If you do not yet have level 10 foraging, you might want to plant a huge forest using spare [Maple Seeds](https://stardewvalleywiki.com/Maple_Seed) and [Pine Cones](https://stardewvalleywiki.com/Pine_Cone), and then chop it all down. (This is more efficient than harvesting [Fall Seeds](https://stardewvalleywiki.com/Fall_Seeds).)
-- Ship enough items to purchase the [Pumpkin Seeds](https://stardewvalleywiki.com/Pumpkin_Seeds) to cover your farm (100g each).
+- chop down all oak trees in the farm
+- get as many sprinklers, tappers, all the starfruit seeds, fertilizers and tree seeds
+- go to the island and plant everything stated above
+- start doing vulcano runs untill you can get the galaxy hammer upgraded
 
 ### Fall 2
 
-- Harvest the wheat and replant [Pumpkin Seeds](https://stardewvalleywiki.com/Pumpkin_Seeds) to cover your whole farm.
-  - Pumpkins are better than [Cranberries](https://stardewvalleywiki.com/Cranberries) because we will not have enough kegs to support all of the cranberries.
-- Similar to Starfruit, you should harvest + replant in order to get three batches of [Pumpkins](https://stardewvalleywiki.com/Pumpkin) in fall.
+- BIRTHDAY: Penny
+ - gift her a diamond/emerlad/melon
+- from now on spend all day in the vulcano till u upgrade the hammer
+- at the same time farm as much wood as possible by planting trees. (PLANT OAK TREES IN A SPECIAL AREA JUST FOR THEM AS U WONT CUT THEM DOWN)
+ - Consider crafting tree fertilizer to speed up the process (especially on oak trees)
+ - Use the wood u get to craft enough tappers for all the trees you plant, then use it for kegs. You want to have 50-100 kegs for day 10.
+
+### Fall 5
+
+- BIRTHDAY: Elliot
+ - gift Crab cake
 
 ### Fall 9
 
-- You can finally sell your Starfruit Wine now.
-- Use the Statue of Uncertainty to re-specialize from Agriculturist to Artisan.
-- Buy more seeds for tomorrow. (We need to buy the seeds today because Pierre's will be closed on Wednesday.)
+- go to desert and buy all the starfruit seeds you'll need for tomorrow
 
 ### Fall 10
 
-- The first batch of Pumpkins are ready on this day.
-- Replant. (We can get 3 total harvests of Pumpkins, just like Starfruit.)
+- harvest startfruit and put em in the kegs
+- Replant.
+
+### Fall 11
+
+- BIRTHDAY: Jodi
+ - gift her diamond/pancakes/Chocolate cake
+
+### Fall 13
+
+- BIRTHDAY: Abigail
+ - gift her an amethist
+
+### Fall 15
+
+- BIRTHDAY: Sandy
+ - gift her a crocus/daffodil/sweet pea
+
+### Fall 16
+
+- STARDEW VALLEY FAIR: bring mayor's shorts and buy everything
+
+### Fall 18
+
+- BIRTHDAY: Marnie
+ - gift her a diamomnd/pink cake
+- go to desert and buy all the starfruit seeds you'll need for tomorrow
+
+### Fall 19
+
+- harvest startfruit and put em in the kegs
+- Replant.
+
+### Fall 21
+
+- BIRTHDAY: Robin
+ - gift her spaghetti
+
+### Fall 24
+
+- BIRTHDAY: George
+ - gift her a Leek
+
+### Fall 27
+
+- go to desert and buy all the starfruit seeds you'll need for tomorrow
+- fish all day till its night
+- buy everything at spirit's eve
+
+### Fall 28
+
+- harvest startfruit and put em in the kegs
+- Replant.
 
 ### Winter 1 & Beyond
 
 - Now is your chance to complete any remaining Community Center bundles. You want to complete the Community Center as **fast as possible** in order to unlock [Ginger Island](https://stardewvalleywiki.com/Ginger_Island) & the island farm.
   - Once you have access to the island farm, you can start to mass-plant Starfruit again, which will be your primary source of income.
 
-<br />
 
-## Appendix A: Recommended Restrictions
-
-Some techniques and strategies are considered to be "cheating", but it differs from player to player.
-
-For example, players like [TheHaboo](https://www.twitch.tv/thehaboo) take the stance that using a specially crafted filename to get extra items is "not allowed", but that exploiting a bug in the game to deal massive amounts of damage with a hammer is "allowed". Haboo also takes the stance that manipulating RNG to get Desert Totems from the Casino is "not allowed", but that manipulating RNG to sell clay is "allowed".
-
-Players are free to use whatever strategies that they want, but for the purposes of this guide, we want to be consistent - we assume that you are not using any bugs, exploits, or any "borderline" strategies at all. Even when restricting yourself to play in the most vanilla-way possible, it is still possible to complete a bunch of different challenges (like getting almost all Grandpa points by the end of the first year). We challenge other Stardew players to try to make things as difficult as possible, within reason.
-
-We recommend the following self-imposed restrictions:
-
-- Choosing the Community Center path instead of the Joja path.
-  - It is generally more interesting and more difficult to choose the Community Center. However, if you are e.g. only concerned with getting as much money as you can by a specific date, then feel free to use the Joja path. (Choosing Joja is optimal in this case because it allows access to Ginger Island in Year 1 Spring.)
-- No using glitches / bugs / debug features (e.g. the [item spawning cheat](https://www.ign.com/wikis/stardew-valley/Cheats_and_Secrets)).
-- No cheats (e.g. Cheat Engine).
-- No mods.
-  - Some [quality-of-life mods](#appendix-b-mods) are okay if they provide no actual gameplay advantage.
-- No playing on a set seed. The seed must be randomly generated.
-- No restarting a day in the middle of a run. If a mistake is made, you must continue on with the run or restart all the way back to a new save file. (See below for the reasoning.)
-- No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.
-  - Since you are allowed to reset from day N to day 1, it follows that you should be allowed to reset from day 1 to day 1. But if you want, you can force yourself to keep playing a suboptimal day 1 as an additional challenge. (An optimal day 1 is probably not necessary for most runs.)
-- No using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/), [BlaDe's Map Predictor](https://www.nexusmods.com/stardewvalley/mods/6614), or similar methods to derive information from your save file.
-- No using [a spreadsheet planner](https://docs.google.com/spreadsheets/d/1laZf_oXoCQ6msYP4v_OQz40rduHjIo99txJMh9eTsYg/edit) to know beforehand what specific tiles will yield a gold-quality crop.
-- No using the [hammer spam bug](#hammers--the-hammer-spam-bug) to deal massive amounts of damage to enemies.
-- No buying from NPCs when you are not supposed to (e.g. buying from Robin on Tuesdays when she paths next to the shop counter).
-- No animation canceling (e.g. to swing a tool extra fast).
-- No using RNG manipulation to get [massive amounts of clay](https://www.youtube.com/watch?v=mIUeZZ14y54).
-- No using RNG manipulation to guarantee [Ancient Seeds from a Seed Maker](https://www.youtube.com/watch?v=i38oWhqN59k).
-- No using RNG manipulation to get massive amounts of [Warp Totem: Farm](https://stardewcommunitywiki.com/Warp_Totem:_Farm) from the [Casino](https://stardewcommunitywiki.com/Casino).
-- No using RNG manipulation to count steps and change the luck of the subsequent day.
-- You are allowed to use [Stardew Checkup](https://mouseypounds.github.io/stardew-checkup/) (since it is easier than manually writing down all of the items you donate to the museum).
-- You are allowed to zoom the game [past the normal 75% value](#zoom-level-keybinding). (See below for the reasoning.)
-
-The reasons for not allowing the restarting of a day are twofold:
-
-- First, if you allow restarting a day as many times as you want, mistakes become inconsequential: simply restart the day over and over until you get a perfect day. This essentially removes the execution aspect of the game. It also minimizes the planning aspect of the game.
-- Furthermore, consider that when players are forced to improvise on-the-fly after a mistake is made, it promotes interesting gameplay. Players have to quickly think "on their feet", coming up with an alternate plan or an intelligent way to mitigate the mistake.
-- Second, resetting a day allows for unfair knowledge. For example, players can check what the Traveling Cart has, and then reset the day if it does not sell anything useful, "regaining" all of the time that it took to walk down there.
-- If resetting a day is allowed, then it follows that for players to correctly min-max, they would be need to play each day multiple times. This would be so that they can "explore" the possibilities of the day (or use a luck predictor), try out different strategies, and then pick one and execute it until they are satistifed.
-- Re-playing *every single day* in this fashion is extremely tedious and is probably not in the spirit of what the game is supposed to be.
-- Allowing the resetting of a day will allow for "near-perfect" runs. But at the end of a challenge run, you can be much, much more satisfied with a run where you played solidly from start to finish (as opposed to a "challenge" run where you simply reset the day whenever you made a mistake).
-
-The reasons for allowing a mod to zoom the game are threefold:
-
-- First, players with 4K monitors can see much farther than players on 1080p monitors. It would be silly to force players to have to buy a 4K monitor in order to get a competitive advantage at Stardew Valley, so allowing arbitrary zooming puts everybody on a level-playing field.
-- Second, it is possible to set the zoom level to be a value less than 75% by manually editing the value in your save file by using a text editor. Thus, it is possible to achieve the arbitrary zoom-levels that a mod provides while still playing without any mods. The only difference is that by having zoom hotkeys, you can easily zoom in and out without having to squint at the screen, which is a huge quality of life improvement.
-- Third, even if you consider manually editing a save file to be cheating, it is still possible to see the entire area *without* changing the zoom level by taking a screenshot from the in-game options menu. By pausing the game and opening the resulting PNG file, players can see the entire area that they are in without having to actually walk there.
-- Even with these three things in mind, one could argue that a skilled Stardew player should arbitrarily restrict themselves to playing in a "normal" zoom level and to not ever use the in-game screenshot feature. This is a reasonable restriction to take on, but the resulting gameplay that this restriction causes does not end up being more fun - having to walk out of your way to explore an area does not really add any meaningful decision-making to the game.
-
-<br />
-
-## Appendix B: Mods
-
-Some mods add additional content into the game, which changes the calculus of what the optimal thing to do on each day is. We do not use any of these mods and prefer to min-max the vanilla game. With that said, we recommend that everyone use some of the excellent quality-of-life mods out there (that do not interfere with the vanilla strategies).
-
-#### [UI Info Suite 2](https://github.com/Annosz/UIInfoSuite2/)
-
-This mod is a compilation of several different features:
-
-- *Display an icon that represents the current days luck* - This is not considered cheating since if you place the TV next to your bed, it wastes no in-game time to check the luck of the day.
-- *Display experience point gains & Display a dynamic experience bar that changes based on your current tool or location* - This is not considered cheating because you can manually track your experience for each skill by keeping a running tally on a piece of paper as you forage things and so forth. In vanilla, you can also see your current level in the skills tab of the menu.
-- *Display more accurate heart levels* - This is not considered cheating because you can manually track what each person's heart levels are on paper.
-- *Display more information on item mouse overs, including items that are still needed for bundles* - This is not considered cheating because you can just pause the game and look up the item on the wiki.
-- *View calendar and quest billboard anywhere* - Viewing the calendar is not considered cheating because you could just pause the game and bring up the [Calendar](https://stardewvalleywiki.com/Calendar) page on the wiki. However, viewing the billboard anywhere is considered cheating, because you save time from having to walk to Pierre's. Either don't ever click on the billboard in the pause menu or simply turn off the feature in the "UI Info Mod Options" tab of the menu.
-- *Display icons over animals that need petting* - Probably only considered cheating if you have a ton of animals; most runs only buy one of each animal (which is subsequently trivial to keep track of).
-- *Display crop type and days until harvest on mouseover* - Not cheating because you can write down what day you plant a crop. In the case of mixed seeds, it is still not cheating because you can go to the wiki and look up what crop it is based on the image tile of the seed.
-- *Display icon when animal has item yield (milk, wool)* - Could be cheating in the case where you use the notifications to intentionally skip milking a cow, for example. Don't do that. Most runs use [Auto-Grabbers](https://stardewvalleywiki.com/Auto-Grabber), so this quickly becomes a non-issue.
-- *Sprinkler, scarecrow, beehive and Junimo hut ranges* - Not considered cheating because you can just pause the game and count the number of squares that it is supposed to cover.
-- *Display npc locations on map* - Not considered cheating because you can just go to the NPC's page on the wiki and look up their schedule for the day.
-- *Display an icon for Queen of Sauce when she is airing a recipe you don't already know* - Not considered cheating because the show airs on predictable days and it wastes no in-game time to check the TV.
-- *Display an icon when Clint is upgrading one of your tools. Icon will tell you how long until the tool is finished and shows you which tool you are upgrading.* - Not considered cheating because you can just write down when you give a tool to Clint.
-
-(UI Info Suite is the most important mod that we recommend. The mods below here are listed in alphabetical order.)
-
-#### [Always Scroll Map](https://www.nexusmods.com/stardewvalley/mods/2733)
-
-This allows the screen to be centered on the player. It can be toggled on and off by pressing ";" and the default behavior is customizable. This is helpful for restocking massive amounts of jars/kegs in a Shed, for example, because when the screen is centered, you need to do a lot less mouse movements. This is not considered cheating because the "skill" difference between moving the mouse a little more while restocking a shed or planting crops is negligible.
-
-#### [Energy Count](https://www.nexusmods.com/stardewvalley/mods/4272)
-
-This always shows the numerical energy count on screen so that you don't have to constantly pause the game and mouse over the energy bar in order to see it. It also shows an accurate count when the energy drops into negative values, which is helpful.
-
-#### [Fast Animations](https://www.nexusmods.com/stardewvalley/mods/1089)
-
-By default, this mod speeds up a lot of different animations, so it must be customized using the "config.json" file to prevent cheating. All values should be set to 1 with the exception of:
-
-- EatAndDrinkSpeed - Set this to 2 (or higher) to speed up the rate of the eating animation. This is not considered cheating because the game is paused when the animation is occurring.
-- HarvestSpeed - Set this to 2 (or higher) to speed up pulling up massive amounts of crops. This is not considered cheating because the game is paused when the animation is occurring.
-- MountOrDismountSpeed - Set this to 2 (or higher) to speed up getting on and off the horse. This is not considered cheating because the game is paused when the animation is occurring.
-- BreakGeodeSpeed - Set this to 20 to make geodes break open instantly. This is not considered cheating because the game is paused when the animation is occurring.
-- PamBusSpeed - Set this to 20 to make the bus travel to the desert instantly. This is not considered cheating because the game is paused when you are riding on the bus.
-- TitleMenuTransitionSpeed - Set this to 20 to make the title screen more functional.
-- LoadGameBlinkSpeed - Set this to 20 to make the title screen more functional.
-
-#### [Highlighted Jars](https://www.nexusmods.com/stardewvalley/mods/6833)
-
-This changes the color of unfilled [Preserves Jar](https://stardewvalleywiki.com/Preserves_Jar) and [Kegs](https://stardewvalleywiki.com/Keg) to be red. This is helpful because when you are filling massive amounts of jars or kegs, it is common to accidentally miss one. This allows you to easily see missed jars/kegs. (Otherwise, you would have to pause the game and squint to examine if all of the jars/kegs on the screen have a pulsating animation.)
-
-#### [No Defend With Sword](https://github.com/DiscipleOfEris/NoDefendWithSword)
-
-This prevents the usage of defending with a sword. This is helpful because accidental usage of defend is a common mistake.
-
-#### [Remember Faced Direction](https://www.nexusmods.com/stardewvalley/mods/6946)
-
-This fixes the bug where the game removes your faced direction after performing an action (like eating).
-
-#### [Running Late](https://www.nexusmods.com/stardewvalley/mods/3518)
-
-This prevents the game from rounding the time to the nearest 10 minutes. (It is hard to believe that this simple feature is not in the vanilla game!)
-
-#### [Shipping Bin Summary](https://www.nexusmods.com/stardewvalley/mods/18992)
-
-This allows you to put things and take them out of the shipping bin like it was a chest. Importantly, it also shows a running tally of the amount of gold you will recieve the next day. This is extremely useful because at several points in a min-max run, you will have to ship exactly a certain amount of gold, and this mod obviates the need for writing everything down with pencil and paper. Presumably, the vanilla shipping bin does not function like this because it would allow for additional unlimited temporary storage. Thus, in order to prevent cheating, you should never temporarily store items in the shipping bin with this mod.
-
-#### [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
-
-This removes the intro cutscene (e.g. the cutscene that appears before you get to the main menu, not the one that plays at the beginning of a new save file). Even though you can press escape to skip this cutscene, it is helpful to just completely remove it so that you can get into the game that much faster.
-
-#### [Sleepless Fisherman](https://www.nexusmods.com/stardewvalley/mods/5915)
-
-This disables the "ZZZ" animation that plays at 12 AM and 1 PM when you happen to be fishing. This is helpful since it can be confused with a bite animation, causing you to waste precious energy.
-
-#### [Zoom Level](https://www.nexusmods.com/stardewvalley/mods/7363)
-
-This allows you to zoom in and out by using hotkeys. It also allows you to zoom out farther than the normal 75% maximum value. See the justification in [the previous section](#appendix-a-recommended-restrictions) as to why this is not considered cheating.
-
-<br />
-
-## Appendix C: Average Gold per Hour for Fishing
-
-- For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing.
-- The values for various fishing spots are located in my [fishing spreadsheet](https://docs.google.com/spreadsheets/d/1Zv0VCgFyJRlh1kVyvogYZviaqCexrDYhp7GNEQxozBM/edit).
-- Most importantly, in Spring:
-  - The best spot to fish in sunny weather is the mountain lake, which results in 661.79 average gold per hour.
-  - The best spot to fish in rainy weather is the forest river, which results in 842.94 average gold per hour.
-- The ratio between sunny lake and rainy river is 1 to 1.27.
-
-<br />
-
-## Appendix D: Early Community Center
-
-In some challenge runs, getting to Ginger Island in winter is fine, since you are busy with other activities all throughout Fall. However, in other challenge runs, it might be beneficial to invest time into getting there earlier than that (e.g. a min-max run only concerned with maximizing gold earned in which it is explicitly against the rules to use the Joja path).
-
-Even with our recommended restrictions, it is possible to complete the Community Center by Fall 14, which gets you to the island 14 days faster (the boat will be unlocked on Fall 16 but will be delayed by a day because of the Stardew Valley Fair). 
-
-The 3 items needed are the [Snow Yam](https://stardewcommunitywiki.com/Snow_Yam), [Crocus](https://stardewcommunitywiki.com/Crocus), and the [Nautilus Shell](https://stardewcommunitywiki.com/Nautilus_Shell).
-
-For the Snow Yam and the Crocus:
-- Complete the Greenhouse by Fall 9 (by planting a Pumpkin with Deluxe Speed-Gro on Fall 1).
-- Put [Winter Roots](https://stardewcommunitywiki.com/Winter_Root) in a [Seed Maker](https://stardewcommunitywiki.com/Seed_Maker) to get [Winter Seeds](https://stardewcommunitywiki.com/Winter_Seeds). (Winter Roots drop from blue slimes on levels 41-79 of the Mines.)
- - Alternatively if you have spare Spring Seeds you can trade 2 to the Desert Trader for Winter Seeds on Saturdays.
-- Plant the Winter Seeds in the Greenhouse on Fall 10.
-
-For the Nautilus Shell:
-- You can get randomly them from the Traveling Cart. If you check the Traveling Cart every day from Spring 5 onwards, you are likely to find one in the first year.
-  - Note that in this ruleset, we consider using Stardew Predictor to be cheating, so you must actually walk to the Traveling Cart on every Friday and Sunday.
-- You can also get them as a rare drop from [Fish Pond](https://stardewcommunitywiki.com/Fish_Pond) with Crab Pot fish, but for the purposes of min-maxing, we can safely ignore this method.
-- You can also get them as a random present from Demetrius, but for the purposes of min-maxing, we can safely ignore this method.
-
-<br />
-
-## Appendix E: Birthdays
-
-- On a birthday, giving a liked gift gets 360 friendship. This is equal to 8 normal liked gifts or 4.5 normal loved gifts. 360 friendship will decay after 1.6 years (at -2 per day).
-- On a birthday, giving a loved gift gets 640 friendship. This is equal to 8 normal loved gifts. 640 friendship will decay after 2.9 years (at -2 per day).
-- Thus, depending on how soon you need the friendship, for most NPCs it will probably be worth it to skip birthday presents, at least in the spring of year 1.
-
-#### Lewis - Spring 7
-
-- Unless you happen to get extremely lucky in getting an [Autumn's Bounty](https://stardewvalleywiki.com/Autumn%27s_Bounty), [Glazed Yams](https://stardewvalleywiki.com/Glazed_Yams), or [Vegetable Medley
-](https://stardewvalleywiki.com/Vegetable_Medley) from the Saloon garbage can, then you won't be able to give Lewis a loved gift on Spring 7 of year 1.
-- Thus, you generally would want to give him an [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
-- The friendship from a liked gift would be fully depleted on Winter 19 of year 2.
-- In this route, it is convenient to give Lewis a present, since he is on the way to the blacksmith from the wizard.
-- If you plan on waiting until the end of year 2 to accumulate friendship with Lewis, then it is probably not worth it to give him a liked gift.
-
-#### Vincent - Spring 10
-
-- Unless you happen to get extremely lucky in getting a [Pink Cake](https://stardewvalleywiki.com/Pink_Cake) from the Saloon garbage can, then you won't be able to give Vincent a loved gift on Spring 10 of year 1.
-- Thus, you would generally want to give him a [Daffodil](https://stardewvalleywiki.com/Daffodil), an [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
-- The friendship from a liked gift would be fully depleted on Winter 22 of year 2.
-- Vincent comes out of his room at 9 AM.
-- In this route, it is somewhat convenient to give Vincent a present, since you can fish outside his house and it only wastes a few hours in total.
-- If you plan on waiting until the end of year 2 to accumulate friendship with Vincent, then it is probably not worth it to give him a liked gift.
-
-#### Haley - Spring 14
-
-- Unless you happen to get extremely lucky in getting a [Pink Cake](https://stardewvalleywiki.com/Pink_Cake) from the Saloon garbage can, then you won't be able to give Haley a loved gift on Spring 14 of year 1.
-- Thus, you would generally want to give her a [Daffodil](https://stardewvalleywiki.com/Daffodil), an [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
-- The friendship from a liked gift would be fully depleted on Winter 26 of year 2.
-- Haley leaves her room at exactly at 11:06 AM (to walk to the fountain).
-- In this route, it is inconvenient to give Haley a present, since you would have to leave the mines, meet her at the fountain, and then head back to the mines.
-- If you plan on waiting until the end of year 2 to accumulate friendship with Haley, then it is probably not worth it to give her a liked gift.
-
-#### Pam - Spring 18 - ✔
-
-- Pam loves [Parsnips](https://stardewvalleywiki.com/Parsnip), so this is the easiest gift.
-- The friendship from a loved gift would be fully depleted on Winter 2 of year 3.
-- You can enter Pam's trailer to give her a gift at 9 AM.
-- In this route, it is convenient to give Pam a gift, since you will pass by her while running through the Bus Stop (if you have already fixed the bus).
-- If you care about friendship with Pam, then it is probably worth it to give her a Parsnip.
-
-#### Shane - Spring 20
-
-- Shane loves [Beer](https://stardewvalleywiki.com/Beer), which can be easily purchased at the [Saloon](https://stardewvalleywiki.com/The_Stardrop_Saloon) for 400g.
-- The friendship from a loved gift would be fully depleted on Winter 4 of year 3.
-- Shane comes out of his room at 9 AM.
-- In this route, it is inconvenient to give Shane a gift, since you have to wait for him to come out of his room, and you are typically warping to the Skull Cavern at 6 AM.
-- Even if you care about friendship with Shane, it is probably not worth it to waste 3 potential hours at the Skull Cavern. Especially since Shane is one of the easiest NPCs to max out later on.
-
-#### Pierre - Spring 26
-
-- Unless you happen to get extremely lucky in getting a [Fried Calamari](https://stardewvalleywiki.com/Fried_Calamari) from the Saloon garbage can, then you won't be able to give Pierre a loved gift on Spring 26 of year 1.
-- Thus, you would generally want to give him a [Daffodil](https://stardewvalleywiki.com/Daffodil), [Dandelion](https://stardewvalleywiki.com/Dandelion), or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
-- The friendship from a liked gift would be fully depleted on Spring 10 of year 3.
-- Pierre's store opens at 9 AM.
-- In this route, it is inconvenient to give Pierre a gift, since you have to wait until for the store to open, and you are typically warping to the Skull Cavern at 6 AM.
-- Even if you care about friendship with Pierre, it is probably not worth it to waste 3 potential hours at the Skull Cavern. If you are doing a "farm prep" day on the 26th (clearing debris, etc.) instead of going to the Skull Cavern, then you might want to give him a present in conjunction with buying Parsnip Seeds (as a "linger" crop).
-
-#### Emily - Spring 27
-
-- Emily loves any gem, so this is the easiest gift.
-- The friendship from a loved gift would be fully depleted on Winter 11 of year 3.
-- Emily comes out of her room at 12 PM.
-- In this route, it is inconvenient to give Emily a gift, since you have to wait for her to come out of her room, and you are typically warping to the Skull Cavern at 6 AM.
-- Even if you care about friendship with Emily, it is probably not worth it to waste 6 potential hours at the Skull Cavern. If you are doing a "farm prep" day on the 27th (clearing debris, etc.) instead of going to the Skull Cavern, then you might want to give her a present if you have to head into town for some reason.
-
-#### Jas - Summer 4
-
-- Jas loves [Fairy Rose](https://stardewvalleywiki.com/Fairy_Rose), [Pink Cake](https://stardewvalleywiki.com/Pink_Cake), and [Plum Pudding](https://stardewvalleywiki.com/Plum_Pudding).
-- If your player is male, then you will have gotten a Fairy Cake in the mail, so this is the perfect gift. Otherwise, you can give a [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) from the Skull Caverns.
-- Jas leaves her bedroom at 11:05 AM.
-- In this route, it is inconvenient to give Jas gift, since you have to wait for her to come out, and you are typically warping to the Skull Cavern at 6 AM.
-- Even if you care about friendship with Jas, it is probably not worth it to waste 5 potential hours at the Skull Cavern. If you are doing a non-Skull Cavern day, then you might want to give her a present in conjunction with upgrading the pickaxe.
-
-#### Birthdays in Summer and Beyond
-
-- In summer, you are on less of a time crunch than in spring. With that said, most of your days are going to be filled with Skull Caverns runs, so you might only want to give a gift if you have some other task to do during the day (e.g. farm prep, buying a building from Robin, etc.).
 
 <br />
